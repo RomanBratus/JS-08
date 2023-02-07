@@ -5,7 +5,7 @@
   "homepage": "https://romanbratus.github.io/JS-08/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /JS-08.git/"
+    "build": "parcel build src/*.html --public-url /JS-08/"
   },
   "repository": {
     "type": "git",
