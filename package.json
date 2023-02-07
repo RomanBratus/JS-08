@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://RomanBratus.github.io/JS-08.git",
+  "homepage": "https://romanbratus.github.io/JS-08.git",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /JS-08.git/"
